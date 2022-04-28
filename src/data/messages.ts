@@ -60,7 +60,13 @@ const messages: Message[] = [
     subject: 'New event: create ionic app on Azure SWA',
     date: '4/28 18:33',
     id: 8
-  }
+  },
+  {
+    fromName: 'Andrew Wu again',
+    subject: 'New event: chk chg on Azure SWA',
+    date: '4/28 18:45',
+    id: 8
+  },
 ];
 
 export const getMessages = () => messages;
