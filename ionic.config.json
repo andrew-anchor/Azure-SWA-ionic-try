@@ -1,0 +1,7 @@
+{
+  "name": " azure-swa-ionic-try",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
